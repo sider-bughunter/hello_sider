@@ -1,0 +1,8 @@
+{
+  "report": {
+    "method": "file",
+    "file": {
+      "outputDirectory": "reports"
+    }
+  }
+}
